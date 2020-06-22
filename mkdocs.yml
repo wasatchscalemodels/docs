@@ -1,4 +1,5 @@
-site_name: "Wasatch Scale Models Docs"
+site_name: Wasatch Scale Models Docs
+site_url: https://docs.wasatchscalemodels.com
 
 theme:
   name: material
@@ -10,17 +11,20 @@ theme:
     primary: white
     accent: orange
 
-repo_name: wasatchscalemodels.github.io
-repo_url: https://github.com/wasatchscalemodels/wasatchscalemodels.github.io
+repo_name: wasatchscalemodels/docs
+repo_url: https://github.com/wasatchscalemodels/docs
 
 nav:
   - Home: 'index.md'   
+  - FireBox:
+    - Getting Started: 'FireBox/getting_started.md'
 
 edit_uri: ""
 
 markdown_extensions: 
   - admonition
   - codehilite
+  - attr_list
 
 extra:
   social:
@@ -28,9 +32,8 @@ extra:
       link: https://www.facebook.com/wasatchscalemodels/
     - icon: fontawesome/brands/github
       link: https://github.com/wasatchscalemodels
-  disqus: davidcutting42
+  disqus: wasatch-scale-models
 
 google_analytics:
   - UA-169893990-2
   - auto
-

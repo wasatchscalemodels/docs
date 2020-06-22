@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Overview
+Welcome to the documentation home for Wasatch Scale Models. Here you'll find documentation for all of our products and services. 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![FireBox MK1](images/firebox-MK1-orange-small.jpg)
 
-## Commands
+## About Wasatch Scale Models
+Wasatch Scale Models is a new manufacturer of model railroad products. Started by David Cutting in June 2020, WSM currently specializes in electronics for all scales of model railroading. WSM is an offshoot of the now-defunct Cutting Edge Scale Models (CESM), which specialized in N and HO scale 3D printed locomotives and signalling products. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Over the next year, WSM plans to re-introduce and expand the original CESM product line, as well as expanding its own line of DCC hardware.
