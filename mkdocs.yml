@@ -1,0 +1,36 @@
+site_name: "Wasatch Scale Models Docs"
+
+theme:
+  name: material
+  features:
+    - tabs
+    - instant
+  language: en
+  palette: 
+    primary: white
+    accent: orange
+
+repo_name: wasatchscalemodels.github.io
+repo_url: https://github.com/wasatchscalemodels/wasatchscalemodels.github.io
+
+nav:
+  - Home: 'index.md'   
+
+edit_uri: ""
+
+markdown_extensions: 
+  - admonition
+  - codehilite
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/wasatchscalemodels/
+    - icon: fontawesome/brands/github
+      link: https://github.com/wasatchscalemodels
+  disqus: davidcutting42
+
+google_analytics:
+  - UA-169893990-2
+  - auto
+
