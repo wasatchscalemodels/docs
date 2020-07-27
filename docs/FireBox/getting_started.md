@@ -1,13 +1,16 @@
-# Getting Started
-Thanks for purchasing FireBox! Below you will find instructions for getting started with your new device.
+# FireBox: Getting Started
+The Wasatch Scale Models FireBox is a DCC base station integrating a main track, programming track, and networking capability. FireBox builds on the functionality developed in the DCC++ project, but adds new features including:
+ - WiFi module for communication with JMRI and WiFi throttles
+ - RailCom detection circuits on main and programming tracks
+ - 5A current limit on both main and programming tracks
+ - Ability to function as a dual auto-reversing booster (requires an expansion board)
+ - Isolated USB interface (rated to 2500V) to protect your computer
 
-## Unbox
+## Unboxing
 Carefully remove FireBox from the packaging. You will find the following components included:
 
-- FireBox PCB
-- 3D Printed Case (already installed on FireBox)
-- I2C Pigtail (4 wires)
-- Barrel Jack Pigtail (2 wires)
+- FireBox Circuit Board
+- 3D Printed Case (preinstalled)
 - Heat Sinks (preinstalled)
 
 ## Connections

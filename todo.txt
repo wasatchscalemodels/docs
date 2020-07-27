@@ -1,0 +1,5 @@
+- Write page on restoring bootloader
+- Programming using USB, Atmel ICE, and ESP-Prog
+- OTA firmware upgrades
+- Add spreadsheet with pin assignments to new page
+
